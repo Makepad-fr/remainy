@@ -4,7 +4,7 @@ Remainy is a small native macOS utility that keeps your remaining Codex usage cl
 
 ## Download
 
-Download the latest signed and Apple-notarized installer from [kaanyagci.com/remainy](https://kaanyagci.com/remainy/).
+Download the latest signed and Apple-notarized installer from [kaanyagci.com/remainy](https://kaanyagci.com/remainy/) or the [GitHub release](https://github.com/Makepad-fr/remainy/releases/latest).
 
 ## Requirements
 
